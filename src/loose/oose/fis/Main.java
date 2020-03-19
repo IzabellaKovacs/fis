@@ -20,6 +20,7 @@ public class Main {
         xmlList[3] = "<tag2>";
         xmlList[4] = "text2";
         xmlList[5] = "</tag2>";
+        //comentariu2
 
         Document xml = new XML(xmlList);
 
